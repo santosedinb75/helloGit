@@ -6,4 +6,8 @@ class Cat {
     fun getColor(): String {
         return "gold"
     }
+    
+    fun getName(): String {
+        return "raphael"
+    }
 }

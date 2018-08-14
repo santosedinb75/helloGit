@@ -1,5 +1,5 @@
 fun main(args: Array<String>) {
-    println("HelloGit")
     val fido = Dog()
+    println("Fido is $fido.getColor()")
     fido.bark()
 }

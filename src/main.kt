@@ -3,6 +3,6 @@ fun main(args: Array<String>) {
     val whiskers = Cat()
     println("Fido is ${fido.getColor()}")
     fido.bark()
+    println("Whiskers is ${whiskers.getColor()}")
     whiskers.meow()
-    println("hi")
 }

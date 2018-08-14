@@ -1,5 +1,7 @@
 fun main(args: Array<String>) {
     val fido = Dog()
-    println("Fido is $fido.getColor()")
+    val whiskers = Cat()
+    println("Fido is ${fido.getColor()}")
     fido.bark()
+    whiskers.meow()
 }

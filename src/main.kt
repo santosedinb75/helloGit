@@ -4,4 +4,5 @@ fun main(args: Array<String>) {
     println("Fido is ${fido.getColor()}")
     fido.bark()
     whiskers.meow()
+    println("hi")
 }

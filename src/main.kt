@@ -8,4 +8,6 @@ fun main(args: Array<String>) {
     newKitty.meow()
     println( "${newBirdy.birdName} is a ${newBirdy.getBreed()}")
     newBirdy.tweet()
+
+    println("Howdy Animals")
 }

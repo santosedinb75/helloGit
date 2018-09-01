@@ -6,6 +6,6 @@ fun main(args: Array<String>) {
     newPuppy.bark()
     println("${newKitty.getName()} is ${newKitty.getColor()}")
     newKitty.meow()
-    println( "${newBirdy.name} is a ${newBirdy.getBreed()}")
+    println( "${newBirdy.birdName} is a ${newBirdy.getBreed()}")
     newBirdy.tweet()
 }

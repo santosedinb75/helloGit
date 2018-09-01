@@ -1,5 +1,5 @@
 class Bird(name: String) {
-    val name = name
+    val birdName = name
 
     fun getBreed(): String {
         return "Parakeet"
